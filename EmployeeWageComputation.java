@@ -12,7 +12,7 @@ public class EmployeeWageComputation                               //Main class
                 int empWage=0;
                 int totalEmpHrs=0;
                 int totalWorkingDays=0;
-		/while loop for less than 20 working days and less than 100 working hours
+		//while loop for less than 20 working days and less than 100 working hours
                 while(totalEmpHrs<=maxWorkingHrs && totalWorkingDays<=numOfWorkingDays)
                 {
                         totalWorkingDays++;
